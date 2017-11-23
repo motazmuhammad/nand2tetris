@@ -1,0 +1,1 @@
+The aim of this project is to implement the course http://nand2tetris.org/ both on the emulator and on DE2-115 FPGA(If possible).
